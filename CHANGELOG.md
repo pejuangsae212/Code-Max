@@ -1,5 +1,5 @@
 # Change Log
-
+# Code Max
 ## v1.13.5
 
 * fix(terminal): stop proot "can't sanitize binding" fd warnings by @RohitKushvaha01 in https://github.com/Acode-Foundation/Acode/pull/2878
